@@ -1,0 +1,5 @@
+{
+  "name": "Multi-Resolution Image Generator",
+  "description": "Generate variations of an image in multiple aspect ratios using Gemini.",
+  "requestFramePermissions": []
+}
